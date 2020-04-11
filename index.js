@@ -22,3 +22,5 @@ function sayHiToGrandma(string){
   return "YES INDEED!"
   }
 }
+sayHiToGrandma(uppercase)
+sayHiToGrandman(lowercase)
